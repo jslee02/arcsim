@@ -1,2 +1,2 @@
-# arcsim
+# ARCSim
 Unofficial repository for ARCSim
